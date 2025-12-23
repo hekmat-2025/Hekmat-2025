@@ -52,14 +52,7 @@ I enabled dynamic GitHub stats so visitors can see contributions and top languag
 
 ---
 
-## 📚 Extras & samples
-Want extra sections? I can add:
-- A "Talks & Writing" section linking to a blog or Medium posts  
-- A resume / CV download button (PDF)  
-- Screenshots or GIFs for featured projects  
-- A pinned "How to run locally" quick-start for each project
 
----
 
 Made with ❤️, curiosity, and a lot of coffee. Keep building — the best code is shipped code. ✨
 
